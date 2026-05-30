@@ -1,0 +1,6 @@
+{
+  "name": "Smart Quiz Nepal",
+  "description": "Smart Quiz Nepal is a modern, high-fidelity quiz application featuring multiple categories, dual game modes (including robust offline play), live results dashboard, level/achievements tracking, and an admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
